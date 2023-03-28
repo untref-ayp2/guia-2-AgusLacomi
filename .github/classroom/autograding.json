@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Test Ejercicios",
+      "setup": "",
+      "run": "go test tests/ejercicios_test.go",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test Stack",
+      "setup": "",
+      "run": "go test /tests/stack_test.go",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test Queue",
+      "setup": "",
+      "run": "go test /tests/queue_test.go",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test QueueS",
+      "setup": "",
+      "run": "go test /tests/queueS_test.go",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
